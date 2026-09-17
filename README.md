@@ -19,6 +19,19 @@ Gaming platforms continuously handle high volumes of player sessions, microtrans
 
 ---
 
+## 📁 Dataset & Architecture
+
+The raw dataset (`data/gaming_platform_raw_data.csv`) consists of platform session logs containing the following key fields:
+* **Session_ID**: Unique identifier for each player session.
+* **Player_ID**: Unique player identifier.
+* **Platform**: Device platform used (`Console`, `Mobile`, `PC`).
+* **Engagement_Level**: Categorized player engagement (`High`, `Medium`, `Low`).
+* **Made_Purchase**: Binary indicator (`Yes`, `No`) for microtransactions.
+* **Suspicious_Flag**: Risk metric flag (`1` for suspicious/bot activity, `0` for normal).
+* **Revenue**: Transaction amount per session.
+
+---
+
 ## 🛠️ Key Data & Analytics Features
 
 * **Data Preprocessing & Cleaning**: Cleaned raw session logs, normalized platform metrics, and engineered calculated fields (`Engagement Level`, `Made Purchase`, `Suspicious Flag`).
