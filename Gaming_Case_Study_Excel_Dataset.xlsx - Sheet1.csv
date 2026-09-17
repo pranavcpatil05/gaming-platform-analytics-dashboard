@@ -1,0 +1,501 @@
+Session ID,Player ID,Player Name,Game Name,Platform,Region,Session Date,Session Duration (min),In-Game Purchase ($),Purchase Type,Session Status,Player Type,Level Reached,Is Suspicious
+S00001,P3652,harrisrichard,BattleZone,Console,East,2025-02-08,179,0,None,Completed,Free,42,Yes
+S00002,P9981,wlee,Zombie Rush,Mobile,Central,2024-12-16,75,26.02,Boosters,Completed,Paid,11,No
+S00003,P5280,katie47,SpeedX,Console,East,2024-12-17,36,2.94,Subscriptions,Completed,Paid,4,No
+S00004,P2930,isaac85,Clash of Realms,Mobile,Central,2025-06-12,153,0,None,Completed,Free,18,Yes
+S00005,P7925,ballarddouglas,Zombie Rush,Mobile,North,2025-05-21,109,5.48,Boosters,Crashed,Paid,5,No
+S00006,P9919,lrichardson,Zombie Rush,Mobile,North,2025-03-27,46,0,None,Crashed,Free,39,No
+S00007,P7231,holmesbruce,Clash of Realms,Console,North-East,2025-04-12,134,42.57,Battle Pass,Exited Early,Paid,40,Yes
+S00008,P5965,lhansen,BattleZone,PC,South,2025-01-09,38,0,None,Exited Early,Free,14,No
+S00009,P3834,alexis47,Clash of Realms,PC,East,2025-02-07,24,0,None,Exited Early,Free,45,No
+S00010,P4220,ryanmarshall,Zombie Rush,PC,North,2025-05-14,138,0,None,Exited Early,Free,48,No
+S00011,P1038,alexandriaparrish,SpeedX,Console,North,2025-04-09,26,0,None,Crashed,Free,27,No
+S00012,P7407,jacobhaynes,Zombie Rush,PC,North,2025-04-21,142,0,None,Completed,Free,23,No
+S00013,P4776,xjoseph,SpeedX,Mobile,South,2025-03-08,100,0,None,Completed,Free,36,No
+S00014,P6935,yjohnson,BattleZone,PC,East,2025-05-17,78,0,None,Completed,Free,35,No
+S00015,P9150,lesliemiller,Empire Wars,PC,West,2025-03-03,151,0,None,Completed,Free,47,Yes
+S00016,P9796,raynatalie,BattleZone,Mobile,East,2025-01-07,163,0,None,Completed,Free,50,Yes
+S00017,P5317,xtaylor,BattleZone,PC,East,2025-01-24,128,0,None,Incomplete,Free,7,No
+S00018,P5320,aguilarjennifer,Empire Wars,Console,North-East,2025-01-28,173,0,None,Exited Early,Free,30,Yes
+S00019,P8261,lmeza,SpeedX,Mobile,North,2025-04-22,49,0,None,Exited Early,Free,47,No
+S00020,P6549,michael06,Zombie Rush,Mobile,Central,2025-02-14,94,0,None,Crashed,Free,48,No
+S00021,P1758,lawsonderrick,BattleZone,PC,North-East,2025-05-31,168,0,None,Completed,Free,33,Yes
+S00022,P5785,icrawford,Clash of Realms,Console,North,2025-05-13,86,0,None,Completed,Free,34,No
+S00023,P4722,david54,Zombie Rush,Console,North,2025-03-22,58,0,None,Completed,Free,37,No
+S00024,P8146,rcraig,SpeedX,PC,West,2025-03-24,121,7.28,Boosters,Completed,Paid,34,No
+S00025,P2146,kvasquez,Zombie Rush,PC,South,2025-05-04,51,0,None,Crashed,Free,41,No
+S00026,P3548,erica07,Empire Wars,PC,North-East,2025-03-25,96,0,None,Completed,Paid,17,No
+S00027,P2609,owensoscar,Empire Wars,Mobile,North-East,2025-05-02,173,0,None,Completed,Free,8,Yes
+S00028,P4851,wlawson,SpeedX,Mobile,North-East,2025-02-04,105,0,None,Completed,Free,11,No
+S00029,P5046,kevinruiz,Clash of Realms,Console,North-East,2025-04-16,16,0,None,Completed,Free,26,No
+S00030,P4408,dlee,SpeedX,Mobile,South,2025-06-10,135,0,None,Completed,Free,12,No
+S00031,P3683,rebekah64,Empire Wars,Mobile,North-East,2025-02-06,96,0,None,Completed,Free,43,No
+S00032,P6285,katherinejohnston,SpeedX,PC,North-East,2025-02-20,16,0,None,Completed,Free,16,No
+S00033,P4554,odavis,Clash of Realms,PC,North-East,2025-02-08,165,0,None,Completed,Free,23,Yes
+S00034,P6724,tylermiller,SpeedX,PC,South,2025-05-20,25,0,None,Crashed,Free,26,No
+S00035,P2965,sonya77,SpeedX,PC,South,2025-03-13,140,0,None,Completed,Free,26,No
+S00036,P4961,sandyherman,Empire Wars,Mobile,Central,2025-04-03,86,0,None,Completed,Free,47,No
+S00037,P2861,leahlee,Clash of Realms,PC,North,2025-03-05,149,0,None,Completed,Free,48,No
+S00038,P7945,richardhooper,BattleZone,Console,Central,2025-05-13,121,0,None,Completed,Free,14,No
+S00039,P3668,jenniferwilcox,SpeedX,Mobile,Central,2025-02-14,154,0,None,Completed,Free,44,Yes
+S00040,P3875,bruce09,SpeedX,PC,North-East,2025-01-16,82,24.1,Skins,Completed,Paid,34,No
+S00041,P2707,tpark,Empire Wars,PC,South,2024-12-16,49,0,None,Completed,Free,9,No
+S00042,P2683,csanchez,Clash of Realms,Console,South,2025-05-06,35,0,None,Completed,Paid,33,No
+S00043,P2171,nnguyen,BattleZone,PC,West,2025-01-19,112,30.74,Subscriptions,Completed,Paid,10,No
+S00044,P5497,vmooney,BattleZone,Console,West,2025-02-04,67,0,None,Exited Early,Free,16,No
+S00045,P7820,jennifer87,BattleZone,PC,West,2025-01-19,15,0,None,Crashed,Free,38,No
+S00046,P5339,jcarter,SpeedX,Console,South,2025-03-01,8,0,None,Completed,Free,33,No
+S00047,P2125,jlane,Clash of Realms,Mobile,West,2024-12-17,27,0,None,Completed,Free,19,No
+S00048,P1178,nathan33,BattleZone,Console,North,2025-02-04,115,22.35,Subscriptions,Completed,Paid,43,No
+S00049,P2502,owensjoseph,Zombie Rush,Mobile,Central,2025-02-27,27,0,None,Completed,Free,39,No
+S00050,P5155,griffinsarah,SpeedX,Mobile,Central,2025-01-01,82,0,None,Incomplete,Free,26,No
+S00051,P3174,petersonlacey,BattleZone,Console,South,2025-05-04,42,0,None,Completed,Free,18,No
+S00052,P8266,cynthiapoole,Zombie Rush,PC,East,2024-12-19,108,0,None,Completed,Free,35,No
+S00053,P9579,richardsjessica,SpeedX,Console,West,2025-04-11,38,0,None,Completed,Free,34,No
+S00054,P5714,fforbes,BattleZone,PC,West,2025-03-11,136,0,None,Completed,Free,11,No
+S00055,P4102,odonnelljennifer,BattleZone,Mobile,Central,2025-06-06,20,0,None,Incomplete,Free,49,No
+S00056,P1285,amylong,BattleZone,Mobile,North,2025-05-11,117,0,None,Exited Early,Free,11,No
+S00057,P7588,usnyder,BattleZone,PC,North,2025-05-04,139,0,None,Completed,Free,41,No
+S00058,P9514,dianaburgess,Zombie Rush,Mobile,East,2025-04-09,19,44.21,Battle Pass,Completed,Paid,24,Yes
+S00059,P1110,joseph32,BattleZone,PC,East,2025-04-24,76,0,None,Completed,Free,41,No
+S00060,P2205,fstewart,Empire Wars,PC,Central,2025-04-20,153,0,None,Completed,Free,2,Yes
+S00061,P7473,sholmes,SpeedX,Console,North,2025-05-27,156,0,None,Completed,Paid,50,Yes
+S00062,P1805,charlesjohnson,SpeedX,Mobile,West,2025-03-23,153,0,None,Completed,Paid,44,Yes
+S00063,P3641,davischristopher,Zombie Rush,Console,West,2025-01-01,77,39.88,Skins,Completed,Paid,25,No
+S00064,P6094,jenniferarnold,Zombie Rush,PC,South,2025-06-10,81,10.1,Subscriptions,Crashed,Paid,24,No
+S00065,P5717,palmerashley,Empire Wars,PC,East,2025-02-25,7,0,None,Incomplete,Free,32,No
+S00066,P2499,mbowen,Empire Wars,PC,Central,2025-06-06,152,0,None,Completed,Free,21,Yes
+S00067,P9667,harrisonsteven,SpeedX,PC,West,2025-01-05,64,0,None,Exited Early,Free,13,No
+S00068,P9995,tinapreston,BattleZone,Console,North,2025-06-03,165,0,None,Completed,Free,41,Yes
+S00069,P8527,claudiasilva,Empire Wars,Console,East,2025-01-17,165,0,None,Completed,Free,15,Yes
+S00070,P6322,noah21,Clash of Realms,PC,West,2025-01-25,79,0,None,Exited Early,Free,18,No
+S00071,P8019,nwatkins,Empire Wars,PC,Central,2025-06-12,81,0,None,Exited Early,Free,37,No
+S00072,P3539,martinderrick,Zombie Rush,Console,South,2025-01-02,84,0,None,Completed,Free,11,No
+S00073,P8666,craiggail,SpeedX,Mobile,North,2025-05-05,79,0,None,Completed,Free,49,No
+S00074,P8845,connerkevin,BattleZone,Console,North,2025-01-08,147,0,None,Completed,Free,14,No
+S00075,P3222,fmayer,Empire Wars,Console,West,2025-04-03,70,0,None,Completed,Free,12,No
+S00076,P1269,bryantdawn,SpeedX,PC,East,2025-06-09,33,16.41,Boosters,Incomplete,Paid,30,No
+S00077,P6534,lindsay74,SpeedX,PC,West,2025-02-04,128,0,None,Incomplete,Free,40,No
+S00078,P1662,ehill,SpeedX,Console,Central,2025-06-07,28,0,None,Completed,Free,4,No
+S00079,P9765,hannah41,SpeedX,PC,North,2025-03-27,112,0,None,Completed,Free,21,No
+S00080,P2463,bentonashley,SpeedX,Mobile,South,2025-05-02,175,27.19,Skins,Completed,Paid,1,Yes
+S00081,P3235,kellyhill,Clash of Realms,PC,Central,2025-06-01,60,0,None,Completed,Free,44,No
+S00082,P7193,tlloyd,Zombie Rush,PC,South,2025-03-23,144,0,None,Completed,Free,35,No
+S00083,P1366,robinatkinson,SpeedX,PC,East,2025-05-01,47,0,None,Crashed,Free,50,No
+S00084,P3144,karen96,Clash of Realms,Mobile,South,2025-01-20,53,0,None,Completed,Free,4,No
+S00085,P2977,mark79,Empire Wars,Console,East,2025-04-09,43,0,None,Completed,Free,20,No
+S00086,P8703,wayne88,BattleZone,PC,South,2025-02-01,11,0,None,Crashed,Free,18,No
+S00087,P9792,jack75,BattleZone,Console,South,2025-03-03,100,0,None,Completed,Free,50,No
+S00088,P5000,shenderson,SpeedX,PC,North,2025-02-27,54,35.79,Skins,Completed,Paid,42,No
+S00089,P5536,manderson,Zombie Rush,Mobile,East,2024-12-25,92,0,None,Incomplete,Free,21,No
+S00090,P3420,boylejeffrey,Empire Wars,Mobile,North-East,2025-01-04,115,0,None,Completed,Free,17,No
+S00091,P6128,justinvargas,Clash of Realms,Console,West,2025-06-01,76,0,None,Completed,Free,44,No
+S00092,P2205,smullins,BattleZone,Console,South,2025-04-23,81,0,None,Crashed,Free,46,No
+S00093,P5817,cynthiasimmons,BattleZone,Mobile,North,2024-12-20,154,0,None,Completed,Free,11,Yes
+S00094,P6677,qwatson,SpeedX,Console,North-East,2025-03-15,143,0,None,Exited Early,Free,10,No
+S00095,P5248,xreed,Clash of Realms,PC,South,2025-05-02,123,26.85,Battle Pass,Crashed,Paid,32,No
+S00096,P7669,melanie00,SpeedX,Console,Central,2025-02-24,158,0,None,Completed,Paid,17,Yes
+S00097,P1126,richardward,Zombie Rush,PC,West,2025-02-22,122,0,None,Completed,Free,9,No
+S00098,P8252,riggsbarbara,SpeedX,Console,North-East,2024-12-20,164,0,None,Completed,Paid,19,Yes
+S00099,P9800,sroach,Empire Wars,Console,East,2025-03-22,173,0,None,Completed,Free,37,Yes
+S00100,P5367,jeffreyluna,Empire Wars,Console,East,2025-05-10,107,0,None,Incomplete,Free,13,No
+S00101,P6401,chavezmelissa,BattleZone,Mobile,North,2025-04-03,34,15.26,Skins,Completed,Paid,11,No
+S00102,P1736,qserrano,Zombie Rush,Mobile,East,2025-01-20,180,0,None,Completed,Free,28,Yes
+S00103,P5013,angelabutler,Empire Wars,Mobile,North-East,2025-01-11,41,0,None,Exited Early,Free,47,No
+S00104,P9492,ggriffith,Empire Wars,Console,West,2025-05-18,90,0,None,Completed,Free,3,No
+S00105,P2590,chrisperkins,Clash of Realms,Console,Central,2025-05-22,64,0,None,Completed,Free,50,No
+S00106,P8823,blakewallace,BattleZone,Mobile,Central,2025-01-28,101,0,None,Completed,Free,6,No
+S00107,P1933,ismith,BattleZone,PC,North,2025-04-15,21,36.34,Subscriptions,Completed,Paid,24,No
+S00108,P4776,amydunn,Empire Wars,Console,West,2025-03-31,153,0,None,Crashed,Free,25,Yes
+S00109,P2082,awise,Empire Wars,PC,North-East,2025-06-11,153,0,None,Completed,Free,48,Yes
+S00110,P9730,jennifer33,BattleZone,PC,North,2025-05-21,164,0,None,Crashed,Paid,39,Yes
+S00111,P1583,heatherpayne,BattleZone,PC,Central,2024-12-30,165,0,None,Crashed,Free,48,Yes
+S00112,P3011,keithmaddox,BattleZone,Mobile,Central,2025-05-25,172,0,None,Completed,Free,50,Yes
+S00113,P7599,fuentesmelanie,BattleZone,PC,North,2025-02-27,33,0,None,Completed,Free,46,No
+S00114,P2615,melissa89,Zombie Rush,Mobile,Central,2024-12-18,89,30.92,Boosters,Completed,Paid,48,No
+S00115,P5890,jill75,Zombie Rush,Mobile,South,2025-02-15,22,28.43,Battle Pass,Crashed,Paid,36,No
+S00116,P7715,vhart,Zombie Rush,Console,North-East,2025-04-02,65,0,None,Completed,Free,8,No
+S00117,P4728,marilynharrison,BattleZone,PC,South,2025-02-19,22,0,None,Completed,Free,7,No
+S00118,P8621,davisamy,Empire Wars,Mobile,North-East,2025-05-14,98,0,None,Crashed,Free,7,No
+S00119,P4118,dorseyemily,BattleZone,Console,North,2025-05-04,63,0,None,Completed,Free,13,No
+S00120,P1199,garymeyers,Clash of Realms,PC,North,2025-03-10,45,31.67,Subscriptions,Completed,Paid,45,No
+S00121,P7130,elee,Clash of Realms,Console,North,2025-01-31,142,0,None,Completed,Free,3,No
+S00122,P1992,jennifer29,SpeedX,Console,Central,2025-06-09,56,4.07,Subscriptions,Completed,Paid,45,No
+S00123,P2064,davidkelley,Zombie Rush,Mobile,South,2024-12-22,156,0,None,Completed,Paid,45,Yes
+S00124,P9571,haroldsawyer,Empire Wars,PC,South,2025-01-10,123,0,None,Crashed,Free,12,No
+S00125,P9017,albertkelly,Zombie Rush,PC,South,2025-06-11,172,0,None,Exited Early,Free,21,Yes
+S00126,P8062,chambersnicole,Zombie Rush,Mobile,East,2025-01-29,46,14.47,Boosters,Exited Early,Paid,30,No
+S00127,P6411,jacobsonmichael,BattleZone,Console,West,2025-01-04,153,0,None,Exited Early,Free,15,Yes
+S00128,P4959,robert48,BattleZone,Mobile,North-East,2025-06-07,128,0,None,Crashed,Free,32,No
+S00129,P8564,wyattsanchez,Zombie Rush,PC,South,2025-06-06,54,0,None,Completed,Free,15,No
+S00130,P9652,vedwards,Zombie Rush,Mobile,East,2025-01-13,133,0,None,Completed,Free,35,No
+S00131,P6617,figueroadoris,Clash of Realms,Mobile,South,2025-05-01,116,0,None,Crashed,Free,30,No
+S00132,P2180,briansteele,Zombie Rush,Console,North-East,2024-12-18,95,0,None,Completed,Free,20,No
+S00133,P2956,huangdana,SpeedX,PC,North,2024-12-22,107,0,None,Incomplete,Free,7,No
+S00134,P3200,robert23,SpeedX,PC,North,2025-04-01,150,0,None,Completed,Free,47,No
+S00135,P9368,thomasmonica,SpeedX,PC,East,2025-01-01,175,0,None,Completed,Free,49,Yes
+S00136,P7857,griffithbilly,Zombie Rush,PC,North,2025-01-22,26,23.57,Battle Pass,Completed,Paid,10,No
+S00137,P4039,alanguerrero,SpeedX,PC,Central,2025-05-17,115,0,None,Crashed,Free,42,No
+S00138,P8823,timothy18,BattleZone,PC,North,2025-04-27,72,0,None,Completed,Paid,6,No
+S00139,P4544,martinrobert,Clash of Realms,Console,West,2025-06-06,137,0,None,Incomplete,Free,28,No
+S00140,P4842,deckeramanda,SpeedX,Console,West,2025-04-12,145,0,None,Completed,Paid,36,No
+S00141,P2727,allison25,SpeedX,Mobile,North-East,2025-03-25,46,0,None,Completed,Free,17,No
+S00142,P7235,reedchad,Clash of Realms,PC,West,2025-01-28,106,0,None,Completed,Free,15,No
+S00143,P8203,kennedyjacob,BattleZone,Mobile,North-East,2025-02-17,48,46.63,Battle Pass,Completed,Paid,42,Yes
+S00144,P2317,robertohobbs,Zombie Rush,Console,West,2025-04-22,83,0,None,Completed,Free,25,No
+S00145,P1686,michellemurphy,Clash of Realms,Console,Central,2024-12-24,146,0,None,Completed,Free,28,No
+S00146,P3775,castillowilliam,Clash of Realms,Console,North,2025-02-25,18,0,None,Completed,Free,47,No
+S00147,P2026,manuel15,SpeedX,PC,North,2025-04-23,136,0,None,Completed,Free,23,No
+S00148,P6441,melissa77,Empire Wars,Console,East,2025-01-26,99,0,None,Completed,Free,2,No
+S00149,P2573,pkim,Empire Wars,Mobile,Central,2025-02-05,133,0,None,Completed,Free,26,No
+S00150,P2593,erinjones,BattleZone,Console,Central,2025-03-12,54,0,None,Completed,Free,5,No
+S00151,P5644,harrispamela,Empire Wars,PC,North,2025-01-09,169,0,None,Completed,Free,30,Yes
+S00152,P5906,onoble,Empire Wars,Console,West,2025-03-21,8,39.12,Boosters,Completed,Paid,48,No
+S00153,P4716,jamie88,Clash of Realms,Console,West,2025-02-07,27,2.64,Subscriptions,Completed,Paid,3,No
+S00154,P8055,davidsingleton,BattleZone,Mobile,West,2025-03-05,118,46.55,Battle Pass,Completed,Paid,45,Yes
+S00155,P2328,byrdevelyn,Zombie Rush,Mobile,North-East,2025-05-15,171,18.03,Skins,Completed,Paid,43,Yes
+S00156,P2755,ivan06,Clash of Realms,Mobile,North,2025-04-09,55,0,None,Completed,Free,29,No
+S00157,P5941,gabriellogan,BattleZone,Console,North-East,2025-02-21,37,0,None,Exited Early,Free,1,No
+S00158,P4783,gsmith,Empire Wars,Console,West,2025-02-12,79,0,None,Completed,Free,44,No
+S00159,P7795,morrismelissa,Clash of Realms,Console,South,2025-02-02,50,0,None,Completed,Free,21,No
+S00160,P5207,courtneycarr,Empire Wars,Mobile,North,2025-02-12,57,0,None,Completed,Free,13,No
+S00161,P7830,thomasowens,Zombie Rush,Console,West,2025-04-18,116,17.05,Subscriptions,Exited Early,Paid,17,No
+S00162,P9575,robertsoncynthia,Empire Wars,Mobile,North-East,2025-02-13,8,0,None,Exited Early,Free,31,No
+S00163,P8379,uhudson,Clash of Realms,Console,North-East,2025-01-01,38,0,None,Completed,Free,21,No
+S00164,P4355,victoriastone,BattleZone,PC,North-East,2025-05-05,94,0,None,Exited Early,Free,23,No
+S00165,P6225,adam91,BattleZone,PC,East,2025-03-22,139,0,None,Completed,Free,26,No
+S00166,P9011,robertroberts,BattleZone,Console,East,2025-05-17,153,0,None,Completed,Free,45,Yes
+S00167,P4379,walkerdeborah,BattleZone,Mobile,West,2025-04-16,116,47.47,Subscriptions,Completed,Paid,1,Yes
+S00168,P6734,whitemary,SpeedX,PC,North-East,2025-03-09,82,0,None,Exited Early,Free,17,No
+S00169,P1828,fray,SpeedX,Mobile,North,2025-04-15,35,0,None,Completed,Free,46,No
+S00170,P1330,weaverdaniel,Zombie Rush,PC,West,2025-06-08,168,0,None,Completed,Free,18,Yes
+S00171,P4426,joe22,Clash of Realms,Console,North-East,2025-04-09,123,0,None,Crashed,Paid,47,No
+S00172,P7943,vaughnlori,Clash of Realms,Mobile,West,2025-05-13,41,33.29,Boosters,Completed,Paid,29,No
+S00173,P7565,ambersmith,Zombie Rush,Console,Central,2024-12-30,156,0,None,Completed,Free,34,Yes
+S00174,P4796,okoch,Clash of Realms,PC,West,2025-02-28,84,0,None,Completed,Free,15,No
+S00175,P6406,shannonevans,SpeedX,Console,East,2025-02-27,138,27.01,Boosters,Completed,Paid,18,No
+S00176,P3229,gina94,Empire Wars,Mobile,West,2025-05-17,26,0,None,Completed,Free,22,No
+S00177,P4485,iyoung,Clash of Realms,Mobile,East,2025-05-29,111,0,None,Completed,Free,26,No
+S00178,P4333,matthewcasey,Empire Wars,Mobile,North,2025-01-05,100,0,None,Completed,Free,7,No
+S00179,P3013,smayo,Empire Wars,Mobile,West,2025-05-24,84,0,None,Completed,Free,36,No
+S00180,P9205,douglas13,Zombie Rush,PC,South,2025-03-27,90,33.43,Boosters,Exited Early,Paid,50,No
+S00181,P2490,bakerjohn,Empire Wars,PC,North,2025-05-22,61,23.71,Battle Pass,Completed,Paid,37,No
+S00182,P3609,brianlopez,Zombie Rush,Console,North,2025-04-01,88,0,None,Completed,Free,39,No
+S00183,P2506,troberts,BattleZone,Console,Central,2025-01-25,56,0,None,Completed,Free,1,No
+S00184,P6474,robertmassey,Empire Wars,Console,Central,2025-02-05,54,0,None,Completed,Free,49,No
+S00185,P5211,ynovak,Clash of Realms,PC,North-East,2025-02-25,27,0,None,Completed,Paid,29,No
+S00186,P7900,colinmartinez,SpeedX,PC,West,2024-12-18,30,27.43,Subscriptions,Completed,Paid,1,No
+S00187,P6989,schultzkatherine,BattleZone,PC,West,2025-02-26,128,0,None,Crashed,Free,36,No
+S00188,P5714,romerostephanie,BattleZone,Console,North,2025-02-28,16,36,Skins,Completed,Paid,40,No
+S00189,P4279,otaylor,Clash of Realms,Console,Central,2025-05-23,57,0,None,Completed,Free,18,No
+S00190,P5227,snguyen,BattleZone,Console,West,2025-05-20,153,0,None,Completed,Free,1,Yes
+S00191,P6734,christine87,BattleZone,Mobile,West,2025-01-25,130,0,None,Completed,Paid,8,No
+S00192,P2833,kerry23,Empire Wars,PC,East,2024-12-24,47,12.41,Subscriptions,Completed,Paid,36,No
+S00193,P3866,natashamartin,Clash of Realms,PC,North-East,2025-03-01,53,0,None,Incomplete,Free,28,No
+S00194,P9566,rileyjason,BattleZone,PC,South,2025-03-30,19,0,None,Completed,Free,27,No
+S00195,P1819,garciadanielle,Zombie Rush,Mobile,East,2024-12-28,117,0,None,Completed,Free,17,No
+S00196,P5750,walterkayla,BattleZone,Console,Central,2025-01-02,35,18.72,Skins,Completed,Paid,20,No
+S00197,P8044,henryrosales,Zombie Rush,Mobile,North,2025-05-11,138,0,None,Completed,Free,47,No
+S00198,P7656,nrichmond,Empire Wars,Console,South,2025-01-30,45,0,None,Completed,Free,24,No
+S00199,P9860,andrewbrown,SpeedX,Console,West,2025-05-31,97,0,None,Completed,Free,5,No
+S00200,P7486,qmills,SpeedX,Mobile,Central,2025-02-04,18,0,None,Completed,Free,14,No
+S00201,P5966,qcarrillo,SpeedX,Mobile,West,2025-04-04,7,0,None,Incomplete,Free,22,No
+S00202,P8953,mcdanielautumn,Empire Wars,PC,North-East,2025-03-26,42,32.85,Subscriptions,Incomplete,Paid,38,No
+S00203,P5877,jperkins,Zombie Rush,PC,North,2025-04-11,111,0,None,Completed,Free,39,No
+S00204,P7851,hernandezmichael,Zombie Rush,PC,East,2025-05-05,32,0,None,Incomplete,Free,22,No
+S00205,P8927,xpadilla,BattleZone,Mobile,North,2025-05-28,46,0,None,Completed,Paid,42,No
+S00206,P3345,wjohnson,Empire Wars,Console,Central,2025-05-25,98,0,None,Completed,Paid,30,No
+S00207,P1709,darren53,Empire Wars,Console,West,2025-05-14,85,0,None,Completed,Free,4,No
+S00208,P3727,nathanielchavez,Empire Wars,Console,North,2025-05-13,135,0,None,Completed,Paid,42,No
+S00209,P6903,selliott,Empire Wars,Mobile,North-East,2024-12-15,109,0,None,Completed,Free,15,No
+S00210,P9657,elowe,Clash of Realms,PC,North-East,2025-05-13,41,0,None,Completed,Free,14,No
+S00211,P6523,edwardsjohn,Zombie Rush,Console,West,2025-01-29,47,8.61,Subscriptions,Completed,Paid,1,No
+S00212,P4216,sheilawatkins,BattleZone,Console,Central,2025-03-22,141,0,None,Completed,Free,17,No
+S00213,P5442,nicholas77,SpeedX,Mobile,East,2025-03-06,56,15.9,Boosters,Exited Early,Paid,28,No
+S00214,P5369,alexandermoore,SpeedX,Mobile,West,2025-06-09,93,0,None,Completed,Free,21,No
+S00215,P2904,william77,Clash of Realms,PC,Central,2025-01-31,147,0,None,Completed,Free,48,No
+S00216,P2461,michelle54,Zombie Rush,Console,West,2025-01-31,34,0,None,Completed,Free,50,No
+S00217,P3087,quinncaroline,SpeedX,Console,North-East,2025-04-17,51,0,None,Crashed,Free,2,No
+S00218,P1617,hlucas,Clash of Realms,Console,North,2025-06-03,44,0,None,Incomplete,Free,27,No
+S00219,P3673,davisdevin,BattleZone,Mobile,West,2024-12-16,114,5.31,Boosters,Completed,Paid,9,No
+S00220,P7757,tonyachristensen,Empire Wars,Console,Central,2025-03-04,154,0,None,Completed,Free,26,Yes
+S00221,P1073,shawna86,Clash of Realms,PC,Central,2025-04-28,105,0,None,Completed,Free,38,No
+S00222,P9392,scott81,SpeedX,PC,East,2025-01-26,80,0,None,Exited Early,Free,39,No
+S00223,P8292,kellyrichardson,SpeedX,PC,East,2025-04-09,92,0,None,Completed,Free,11,No
+S00224,P4744,jeansmall,Clash of Realms,Mobile,Central,2025-01-26,113,0,None,Completed,Free,46,No
+S00225,P1940,richard18,SpeedX,Mobile,East,2025-01-06,117,23.32,Boosters,Completed,Paid,11,No
+S00226,P7147,jayroberts,BattleZone,Console,West,2025-01-31,71,0,None,Completed,Free,37,No
+S00227,P9650,lpowers,Empire Wars,Mobile,South,2025-01-23,132,0,None,Completed,Paid,50,No
+S00228,P4765,thomas60,BattleZone,Mobile,South,2025-05-02,30,0,None,Completed,Free,20,No
+S00229,P1732,zjames,Empire Wars,Console,Central,2025-05-27,48,0,None,Exited Early,Free,36,No
+S00230,P7236,zhopkins,SpeedX,PC,Central,2025-05-18,98,27.66,Boosters,Completed,Paid,27,No
+S00231,P9363,melissa94,Zombie Rush,Mobile,North,2025-02-05,23,24.09,Skins,Incomplete,Paid,23,No
+S00232,P8348,pottsdavid,Zombie Rush,Console,West,2025-05-09,146,43.02,Skins,Completed,Paid,24,Yes
+S00233,P8315,zmartin,SpeedX,PC,North-East,2025-04-10,55,0,None,Completed,Free,20,No
+S00234,P4086,joseph76,Zombie Rush,Mobile,North,2024-12-26,154,0,None,Completed,Free,22,Yes
+S00235,P5994,deannanewman,BattleZone,PC,West,2025-04-17,163,0,None,Completed,Free,46,Yes
+S00236,P5794,rodriguezkathleen,SpeedX,PC,North-East,2025-04-12,59,0,None,Crashed,Free,5,No
+S00237,P4427,nelsonbrandon,SpeedX,PC,North-East,2025-02-15,26,11.67,Boosters,Completed,Paid,49,No
+S00238,P4599,wrightjulia,Clash of Realms,Mobile,North,2025-02-27,117,0,None,Exited Early,Free,21,No
+S00239,P3944,zthomas,SpeedX,Mobile,South,2025-01-27,112,2.26,Subscriptions,Completed,Paid,22,No
+S00240,P9467,fmay,SpeedX,Console,East,2025-04-02,116,0,None,Incomplete,Paid,11,No
+S00241,P9330,susan69,Clash of Realms,Console,South,2025-04-17,8,36.39,Boosters,Completed,Paid,22,No
+S00242,P7057,anthony60,Zombie Rush,Console,North-East,2025-01-03,115,0,None,Completed,Free,18,No
+S00243,P5909,mercedesyoung,BattleZone,Mobile,North,2025-05-26,144,0,None,Exited Early,Free,18,No
+S00244,P8810,tracy64,Empire Wars,Console,North-East,2025-04-02,175,7.47,Skins,Completed,Paid,17,Yes
+S00245,P8881,carpenterjohn,SpeedX,Mobile,Central,2025-01-18,142,0,None,Completed,Free,11,No
+S00246,P4807,alexwilson,BattleZone,Console,Central,2025-01-18,154,0,None,Completed,Free,8,Yes
+S00247,P3394,moyerdanny,SpeedX,Mobile,West,2025-01-23,33,0,None,Completed,Free,9,No
+S00248,P2659,joshuasmith,SpeedX,Mobile,West,2025-04-25,91,0,None,Exited Early,Free,44,No
+S00249,P3780,zacharygonzales,Clash of Realms,PC,West,2025-01-27,36,0,None,Completed,Free,36,No
+S00250,P2357,coxlauren,BattleZone,Mobile,North-East,2025-02-15,66,0,None,Incomplete,Paid,38,No
+S00251,P6820,espinozajennifer,BattleZone,Console,North-East,2025-02-03,38,30.6,Subscriptions,Completed,Paid,27,No
+S00252,P7067,jackbarnes,Empire Wars,Console,North,2024-12-13,177,0,None,Completed,Free,25,Yes
+S00253,P6499,juanjones,Empire Wars,Mobile,West,2024-12-13,133,8.05,Skins,Completed,Paid,35,No
+S00254,P5142,georgewarren,Clash of Realms,PC,South,2025-04-17,116,0,None,Completed,Free,40,No
+S00255,P4616,danieldonaldson,Empire Wars,PC,West,2024-12-20,72,0,None,Completed,Free,34,No
+S00256,P7433,wsanders,Empire Wars,Console,West,2025-04-11,51,0,None,Completed,Free,30,No
+S00257,P8958,dunnmelissa,Clash of Realms,Mobile,North,2025-01-24,19,0,None,Completed,Free,6,No
+S00258,P1212,hporter,Zombie Rush,Mobile,South,2025-01-27,142,8.64,Boosters,Crashed,Paid,25,No
+S00259,P8750,garciaisabel,Empire Wars,PC,North,2025-04-06,31,0,None,Completed,Free,49,No
+S00260,P2956,rsuarez,Zombie Rush,Console,Central,2025-03-05,26,0,None,Completed,Paid,5,No
+S00261,P7483,murrayaaron,Zombie Rush,Console,East,2025-06-07,144,40.29,Subscriptions,Exited Early,Paid,1,Yes
+S00262,P3905,stephen73,Empire Wars,PC,North,2025-04-11,6,0,None,Completed,Free,7,No
+S00263,P2082,iadkins,Zombie Rush,Console,North,2025-05-27,176,44.39,Battle Pass,Completed,Paid,18,Yes
+S00264,P6567,smithshawn,BattleZone,PC,East,2024-12-24,175,0,None,Incomplete,Free,22,Yes
+S00265,P2068,vanessasmith,SpeedX,Mobile,South,2025-01-23,131,0,None,Crashed,Free,3,No
+S00266,P4801,annaroy,Clash of Realms,Mobile,West,2025-04-21,17,0,None,Completed,Paid,37,No
+S00267,P9642,dfloyd,Empire Wars,Mobile,East,2025-06-02,128,0,None,Completed,Free,15,No
+S00268,P4625,maryrodriguez,Empire Wars,PC,North,2025-05-03,39,0,None,Completed,Free,18,No
+S00269,P3615,tamarafowler,Zombie Rush,Mobile,East,2025-05-17,122,0,None,Completed,Free,28,No
+S00270,P9094,nsmith,Clash of Realms,PC,West,2025-01-16,15,0,None,Completed,Paid,47,No
+S00271,P7072,matthew23,Zombie Rush,Console,North,2025-04-11,166,47.72,Skins,Completed,Paid,40,Yes
+S00272,P4911,mmorgan,SpeedX,PC,North,2025-03-05,91,45.51,Skins,Completed,Paid,8,Yes
+S00273,P5122,ronaldkennedy,BattleZone,PC,North,2025-04-23,52,0,None,Completed,Free,3,No
+S00274,P4950,megan08,Empire Wars,PC,North,2025-01-13,130,0,None,Completed,Free,49,No
+S00275,P7472,kcook,Empire Wars,Mobile,Central,2025-04-03,87,0,None,Completed,Free,33,No
+S00276,P2232,donovantrevor,Zombie Rush,PC,North,2025-03-22,71,0,None,Completed,Free,38,No
+S00277,P8649,melanie33,Zombie Rush,Mobile,North,2025-03-19,63,0,None,Completed,Free,49,No
+S00278,P7465,foxdawn,Zombie Rush,Console,North,2025-03-28,175,0,None,Crashed,Free,33,Yes
+S00279,P8384,walkernathan,Empire Wars,PC,South,2025-02-02,91,0,None,Completed,Free,22,No
+S00280,P9835,leslie88,BattleZone,Console,North,2025-02-20,127,40.21,Battle Pass,Completed,Paid,38,Yes
+S00281,P5712,brandon14,Zombie Rush,Console,North-East,2025-01-14,179,0,None,Completed,Paid,34,Yes
+S00282,P7701,carmenbutler,SpeedX,Mobile,Central,2025-03-11,160,0,None,Completed,Free,1,Yes
+S00283,P7004,monicaharris,BattleZone,PC,West,2025-04-15,175,0,None,Completed,Free,1,Yes
+S00284,P4597,john69,SpeedX,PC,North,2025-02-20,112,13.89,Battle Pass,Crashed,Paid,25,No
+S00285,P3464,ryan43,BattleZone,Console,North-East,2025-06-03,85,0,None,Exited Early,Free,24,No
+S00286,P1653,jeffreybaker,Clash of Realms,PC,North-East,2025-01-07,16,0,None,Crashed,Free,6,No
+S00287,P8328,floresnatalie,Clash of Realms,PC,North,2025-02-16,80,0,None,Completed,Free,16,No
+S00288,P8167,tyler13,BattleZone,Mobile,Central,2025-03-30,69,0,None,Incomplete,Paid,17,No
+S00289,P6334,erictrujillo,SpeedX,Console,Central,2025-03-03,25,0,None,Completed,Free,34,No
+S00290,P4420,wanda82,Clash of Realms,PC,West,2024-12-26,154,0,None,Completed,Paid,14,Yes
+S00291,P6223,raymondjenna,SpeedX,PC,North-East,2025-04-24,66,0,None,Exited Early,Free,4,No
+S00292,P2113,cassandrarice,Zombie Rush,Console,North,2025-05-20,164,14.33,Skins,Completed,Paid,4,Yes
+S00293,P6122,browndenise,Empire Wars,Console,East,2025-06-03,9,0,None,Completed,Free,10,No
+S00294,P2984,jenniferrollins,BattleZone,Mobile,East,2025-05-11,31,0,None,Crashed,Free,23,No
+S00295,P8996,sbrown,Empire Wars,Mobile,Central,2025-01-12,61,0,None,Completed,Free,30,No
+S00296,P1051,kevin42,Empire Wars,PC,South,2025-03-03,178,0,None,Completed,Free,30,Yes
+S00297,P2001,yrichardson,BattleZone,PC,East,2025-05-05,68,0,None,Completed,Free,21,No
+S00298,P1898,yperez,SpeedX,PC,East,2024-12-18,174,0,None,Exited Early,Free,50,Yes
+S00299,P2792,rileyjohn,SpeedX,Mobile,South,2025-02-17,42,0,None,Completed,Free,15,No
+S00300,P8477,smallalice,Zombie Rush,Console,East,2025-01-07,90,0,None,Exited Early,Free,3,No
+S00301,P1529,nicole11,Empire Wars,Mobile,Central,2025-02-20,70,19.62,Skins,Completed,Paid,47,No
+S00302,P5078,elizabeth99,Clash of Realms,Mobile,North,2025-04-01,93,0,None,Completed,Free,47,No
+S00303,P8482,hornjoshua,BattleZone,PC,East,2025-05-24,155,31.24,Battle Pass,Completed,Paid,33,Yes
+S00304,P1757,thomas29,Clash of Realms,Mobile,North,2025-05-08,122,40.31,Battle Pass,Completed,Paid,33,Yes
+S00305,P2330,davidmendoza,Empire Wars,Console,North,2025-03-03,62,0,None,Incomplete,Free,19,No
+S00306,P2906,jacob24,Empire Wars,PC,East,2025-05-17,31,0,None,Completed,Free,18,No
+S00307,P9068,nthompson,BattleZone,Mobile,North-East,2025-04-12,109,0,None,Completed,Free,40,No
+S00308,P6026,ogarcia,SpeedX,Console,East,2025-02-20,178,38.37,Battle Pass,Completed,Paid,32,Yes
+S00309,P8611,cheyennebenton,BattleZone,Mobile,North-East,2025-01-09,34,0,None,Completed,Free,12,No
+S00310,P5092,owenssherry,Clash of Realms,Console,East,2025-06-04,139,0,None,Completed,Free,1,No
+S00311,P6038,tbarker,BattleZone,Mobile,North-East,2025-01-25,81,0,None,Incomplete,Free,21,No
+S00312,P5060,fmason,BattleZone,Mobile,South,2024-12-21,13,0,None,Completed,Free,12,No
+S00313,P9354,jameswanda,BattleZone,PC,West,2025-01-07,85,0,None,Completed,Free,28,No
+S00314,P6556,dennis63,SpeedX,Console,South,2025-03-11,158,0,None,Crashed,Free,22,Yes
+S00315,P6685,coreyperez,BattleZone,Console,North,2025-04-29,140,0,None,Completed,Free,1,No
+S00316,P3050,gonzalezcindy,Clash of Realms,PC,West,2025-03-31,179,0,None,Completed,Free,5,Yes
+S00317,P2939,millersarah,SpeedX,PC,South,2025-01-09,73,0,None,Incomplete,Free,15,No
+S00318,P4946,thompsontodd,Empire Wars,PC,East,2025-03-31,83,0,None,Completed,Free,1,No
+S00319,P2067,waltersnicholas,Zombie Rush,PC,North,2025-01-21,152,0,None,Completed,Free,31,Yes
+S00320,P1338,hharris,BattleZone,PC,Central,2025-01-31,156,0,None,Crashed,Free,14,Yes
+S00321,P3964,kristopheralvarez,Zombie Rush,Mobile,West,2025-05-11,33,0,None,Crashed,Free,7,No
+S00322,P6010,emilyking,BattleZone,PC,South,2025-01-21,128,0,None,Completed,Free,35,No
+S00323,P7890,bobbyanderson,BattleZone,Mobile,South,2025-02-06,58,0,None,Incomplete,Free,15,No
+S00324,P5731,erinhansen,SpeedX,Mobile,South,2024-12-21,77,0,None,Completed,Free,11,No
+S00325,P2254,gerald82,Clash of Realms,Console,South,2024-12-15,175,0,None,Crashed,Paid,10,Yes
+S00326,P2231,jeffreyjimenez,Clash of Realms,PC,North,2025-03-11,90,0,None,Completed,Free,50,No
+S00327,P2736,lcase,Empire Wars,Mobile,Central,2025-05-16,142,0,None,Incomplete,Free,49,No
+S00328,P3118,jonathan53,Zombie Rush,PC,West,2025-05-24,102,0,None,Completed,Paid,44,No
+S00329,P3169,ethankaufman,BattleZone,Mobile,North,2025-03-21,47,0,None,Completed,Paid,49,No
+S00330,P6447,jessica34,BattleZone,Console,Central,2025-05-22,100,0,None,Completed,Free,25,No
+S00331,P1496,newtonjose,BattleZone,PC,South,2025-02-14,30,36.8,Skins,Exited Early,Paid,24,No
+S00332,P4764,johnsonjulie,SpeedX,Console,East,2025-03-18,180,0,None,Completed,Free,18,Yes
+S00333,P8963,justin27,Empire Wars,Console,North,2024-12-31,18,36.07,Battle Pass,Completed,Paid,4,No
+S00334,P1470,jonesjames,BattleZone,Console,Central,2025-01-19,5,14.86,Battle Pass,Incomplete,Paid,23,No
+S00335,P5228,melissa44,Empire Wars,PC,East,2025-01-08,159,0,None,Completed,Free,20,Yes
+S00336,P4680,jack69,Empire Wars,PC,East,2025-03-16,161,45.73,Boosters,Completed,Paid,4,Yes
+S00337,P2974,maciasronald,Zombie Rush,Console,East,2025-03-07,13,0,None,Exited Early,Free,49,No
+S00338,P9449,douglasluke,SpeedX,PC,South,2025-04-12,110,0,None,Completed,Free,40,No
+S00339,P1806,michael88,Empire Wars,PC,West,2025-02-15,22,0,None,Completed,Free,34,No
+S00340,P6015,terrychristina,Zombie Rush,Console,South,2025-05-12,168,33.73,Battle Pass,Completed,Paid,48,Yes
+S00341,P7017,smartin,SpeedX,PC,Central,2025-01-11,24,0,None,Completed,Free,41,No
+S00342,P9340,davisheather,Clash of Realms,Mobile,East,2024-12-29,166,0,None,Incomplete,Free,30,Yes
+S00343,P6916,amber18,Empire Wars,PC,East,2025-04-09,42,0,None,Completed,Paid,12,No
+S00344,P9975,hollyjenkins,Empire Wars,PC,South,2025-05-03,39,0,None,Completed,Free,49,No
+S00345,P6815,parkerpatricia,Clash of Realms,Mobile,North-East,2025-04-19,91,13.08,Skins,Completed,Paid,17,No
+S00346,P4525,kellergregory,Zombie Rush,Mobile,Central,2025-05-05,30,0,None,Incomplete,Free,42,No
+S00347,P8336,michellewilliams,BattleZone,Mobile,North-East,2024-12-13,44,0,None,Completed,Free,19,No
+S00348,P6418,ericmoore,Zombie Rush,PC,West,2025-03-14,57,0,None,Completed,Paid,29,No
+S00349,P9419,angelaramsey,BattleZone,Console,South,2025-05-30,165,0,None,Completed,Free,15,Yes
+S00350,P9081,brooke04,SpeedX,Console,East,2025-02-24,22,0,None,Completed,Free,22,No
+S00351,P7887,nicholas09,SpeedX,Console,West,2025-02-08,21,0,None,Completed,Free,46,No
+S00352,P8561,boonekristen,Zombie Rush,Mobile,North-East,2025-03-15,127,0,None,Completed,Free,13,No
+S00353,P2482,udavis,Clash of Realms,Mobile,West,2025-02-23,21,0,None,Completed,Free,2,No
+S00354,P4996,jmcknight,Empire Wars,Console,South,2025-03-01,136,0,None,Completed,Free,50,No
+S00355,P2102,sarahlawrence,Zombie Rush,Console,South,2025-04-23,41,0,None,Completed,Free,27,No
+S00356,P9101,hardychristopher,BattleZone,Mobile,Central,2025-05-21,104,0,None,Completed,Free,14,No
+S00357,P7149,sara36,Zombie Rush,Console,Central,2025-02-01,84,23.18,Subscriptions,Completed,Paid,2,No
+S00358,P1901,leestewart,Empire Wars,PC,South,2025-05-24,71,0,None,Completed,Paid,5,No
+S00359,P8092,lisacoffey,Zombie Rush,Console,Central,2025-02-02,63,0,None,Crashed,Free,4,No
+S00360,P9731,popelance,SpeedX,Console,South,2025-05-06,63,0,None,Completed,Free,15,No
+S00361,P8648,mfarley,Zombie Rush,Mobile,North,2025-06-09,18,0,None,Completed,Free,16,No
+S00362,P3956,ruizkimberly,SpeedX,Mobile,Central,2025-06-11,73,0,None,Completed,Free,11,No
+S00363,P8050,andersonwilliam,SpeedX,Console,West,2025-01-14,102,0,None,Completed,Free,2,No
+S00364,P9065,andrewtran,Clash of Realms,Console,South,2025-01-12,91,0,None,Completed,Free,31,No
+S00365,P1888,lynchtina,SpeedX,Mobile,South,2025-04-16,73,0,None,Incomplete,Free,32,No
+S00366,P8007,kelly45,Empire Wars,Mobile,North-East,2025-02-22,80,42.33,Boosters,Completed,Paid,23,Yes
+S00367,P7375,morrisryan,Clash of Realms,Mobile,North-East,2025-05-23,6,0,None,Completed,Free,12,No
+S00368,P4682,aryan,BattleZone,Mobile,South,2025-04-25,161,0,None,Completed,Free,25,Yes
+S00369,P6367,iyoung,SpeedX,PC,Central,2025-02-26,67,0,None,Exited Early,Free,48,No
+S00370,P1693,huntlawrence,Clash of Realms,Mobile,North-East,2025-03-06,144,0,None,Exited Early,Free,9,No
+S00371,P6086,parkzachary,Zombie Rush,Mobile,North,2025-04-07,144,29.52,Skins,Exited Early,Paid,36,No
+S00372,P1855,amandarogers,Zombie Rush,PC,North,2024-12-29,83,0,None,Completed,Free,49,No
+S00373,P9993,bharris,SpeedX,PC,East,2025-06-03,128,0,None,Completed,Paid,29,No
+S00374,P1603,rojasjennifer,Zombie Rush,PC,West,2025-04-28,59,0,None,Completed,Free,36,No
+S00375,P5838,christopher10,Zombie Rush,Console,East,2025-05-09,79,20.5,Boosters,Completed,Paid,5,No
+S00376,P4545,monique85,BattleZone,PC,South,2024-12-25,167,0,None,Completed,Paid,37,Yes
+S00377,P7247,hhuff,BattleZone,Console,South,2025-04-18,165,21.99,Boosters,Exited Early,Paid,45,Yes
+S00378,P2591,caitlingonzales,BattleZone,Console,South,2025-05-11,109,39.87,Boosters,Completed,Paid,13,No
+S00379,P1302,tdavis,Clash of Realms,Mobile,South,2025-03-17,167,0,None,Exited Early,Paid,28,Yes
+S00380,P7023,jessicacisneros,SpeedX,Mobile,West,2025-02-06,36,14.75,Battle Pass,Completed,Paid,46,No
+S00381,P3795,shelbyvalencia,SpeedX,Mobile,Central,2025-03-21,54,0,None,Completed,Free,25,No
+S00382,P6609,jonathan22,BattleZone,Console,North,2024-12-30,15,0,None,Completed,Free,19,No
+S00383,P8505,derrickbuck,SpeedX,Console,East,2025-04-29,101,0,None,Incomplete,Free,41,No
+S00384,P6967,zvargas,SpeedX,Mobile,East,2025-01-27,79,0,None,Completed,Free,48,No
+S00385,P5442,rsutton,Clash of Realms,PC,North,2025-04-04,13,0,None,Completed,Free,13,No
+S00386,P5885,olopez,Zombie Rush,Console,North-East,2025-01-06,157,0,None,Completed,Free,22,Yes
+S00387,P2635,carol86,SpeedX,Console,North-East,2025-06-05,6,0,None,Crashed,Free,7,No
+S00388,P6440,lisabarber,Clash of Realms,Console,North,2025-06-01,134,0,None,Completed,Free,28,No
+S00389,P4758,howardsamantha,Empire Wars,PC,North-East,2025-05-26,76,37.02,Battle Pass,Completed,Paid,4,No
+S00390,P9103,lance41,Zombie Rush,Console,West,2025-05-06,71,0,None,Completed,Free,46,No
+S00391,P1344,williamsonkirsten,SpeedX,PC,West,2025-01-03,49,19.43,Battle Pass,Completed,Paid,22,No
+S00392,P2684,bellraymond,Zombie Rush,Mobile,Central,2025-05-31,143,0,None,Incomplete,Free,17,No
+S00393,P1494,steven30,Empire Wars,Mobile,West,2025-02-15,166,0,None,Completed,Free,39,Yes
+S00394,P6548,hillchristopher,Zombie Rush,PC,North-East,2025-05-29,34,0,None,Completed,Free,45,No
+S00395,P8926,ftyler,Empire Wars,Console,West,2025-01-28,57,0,None,Completed,Free,1,No
+S00396,P2202,soliskyle,SpeedX,Mobile,East,2025-03-23,88,0,None,Completed,Free,2,No
+S00397,P9321,angelicawillis,BattleZone,Mobile,North,2025-05-07,75,0,None,Completed,Free,13,No
+S00398,P6922,aprince,SpeedX,PC,East,2025-02-15,129,0,None,Incomplete,Free,37,No
+S00399,P6788,dylanblack,Zombie Rush,Console,East,2025-04-06,145,0,None,Completed,Free,43,No
+S00400,P1936,hoodchristopher,Zombie Rush,Console,North,2025-01-22,23,0,None,Completed,Paid,26,No
+S00401,P3613,sandraclark,SpeedX,Mobile,North,2025-05-26,105,0,None,Completed,Free,24,No
+S00402,P1659,ffitzpatrick,Empire Wars,Console,North,2025-05-27,22,42.28,Subscriptions,Incomplete,Paid,10,Yes
+S00403,P8982,dominiquejohnson,Empire Wars,Mobile,North-East,2025-06-08,41,24.14,Battle Pass,Completed,Paid,28,No
+S00404,P4516,sellersgregory,SpeedX,Console,North-East,2025-05-21,9,0,None,Exited Early,Free,40,No
+S00405,P6700,armstrongmary,Clash of Realms,Console,North,2025-02-12,111,0,None,Completed,Free,26,No
+S00406,P3545,barnettdonna,Empire Wars,PC,Central,2025-05-24,25,0,None,Completed,Free,12,No
+S00407,P8156,melissaphillips,BattleZone,Mobile,North-East,2025-02-13,111,46.08,Boosters,Crashed,Paid,15,Yes
+S00408,P9402,hoffmandaniel,SpeedX,Console,East,2025-02-08,144,0,None,Incomplete,Free,36,No
+S00409,P2227,thomascorey,SpeedX,Mobile,West,2025-01-10,22,17.35,Battle Pass,Crashed,Paid,49,No
+S00410,P2497,thomas01,Empire Wars,Console,North-East,2025-02-13,154,0,None,Completed,Free,27,Yes
+S00411,P3311,riddleaaron,Clash of Realms,Console,East,2025-01-16,166,0,None,Incomplete,Free,5,Yes
+S00412,P4171,tdean,SpeedX,Console,East,2025-05-02,16,0,None,Completed,Paid,16,No
+S00413,P5355,bruce10,Empire Wars,Console,North-East,2025-01-20,144,0,None,Completed,Free,3,No
+S00414,P4285,annettejackson,Zombie Rush,Mobile,Central,2025-05-19,58,0,None,Completed,Free,43,No
+S00415,P6369,kingtroy,Clash of Realms,Console,West,2025-05-03,95,35.92,Skins,Exited Early,Paid,6,No
+S00416,P1436,coxanthony,Empire Wars,PC,North-East,2024-12-31,86,0,None,Incomplete,Paid,17,No
+S00417,P5233,paige96,Empire Wars,Console,West,2025-01-06,12,1.44,Boosters,Completed,Paid,15,No
+S00418,P5382,sabrina44,Clash of Realms,PC,South,2025-06-03,8,2.1,Boosters,Exited Early,Paid,44,No
+S00419,P1065,neilmorrison,BattleZone,Mobile,Central,2025-04-08,180,0,None,Completed,Free,8,Yes
+S00420,P8628,russochelsey,Clash of Realms,Mobile,Central,2025-05-27,35,13.33,Skins,Completed,Paid,42,No
+S00421,P9217,pwright,BattleZone,Console,South,2025-04-20,97,3.6,Subscriptions,Incomplete,Paid,14,No
+S00422,P9334,samantha20,Empire Wars,Mobile,South,2024-12-17,92,0,None,Completed,Paid,31,No
+S00423,P8641,johnsonandrea,SpeedX,Console,South,2025-02-12,166,0,None,Completed,Free,43,Yes
+S00424,P8632,nramos,Zombie Rush,Console,South,2025-01-19,146,22.51,Battle Pass,Exited Early,Paid,25,No
+S00425,P6749,pmoore,BattleZone,Console,East,2025-03-06,7,29.06,Battle Pass,Completed,Paid,12,No
+S00426,P8176,enielsen,BattleZone,Mobile,North,2025-01-12,79,0,None,Completed,Free,30,No
+S00427,P9104,melissa17,Zombie Rush,PC,Central,2025-02-07,39,0,None,Completed,Free,12,No
+S00428,P5582,jennifer94,Zombie Rush,Console,West,2024-12-19,9,0,None,Incomplete,Free,23,No
+S00429,P4908,twashington,Empire Wars,PC,East,2025-06-13,70,11.82,Battle Pass,Completed,Paid,5,No
+S00430,P8542,brian05,Empire Wars,Mobile,East,2025-01-27,156,0,None,Completed,Free,6,Yes
+S00431,P7163,emilynelson,Zombie Rush,Console,South,2024-12-15,159,0,None,Completed,Free,14,Yes
+S00432,P2427,kacosta,Zombie Rush,PC,Central,2025-01-23,139,0,None,Completed,Free,37,No
+S00433,P1911,yvette50,BattleZone,Mobile,Central,2025-05-01,25,0,None,Completed,Paid,20,No
+S00434,P2246,lisajames,Empire Wars,Mobile,South,2025-03-23,80,0,None,Incomplete,Free,3,No
+S00435,P2996,linda22,Zombie Rush,Console,South,2025-04-26,101,0,None,Completed,Free,15,No
+S00436,P9175,gregbaker,Zombie Rush,Console,West,2024-12-19,176,0,None,Completed,Free,18,Yes
+S00437,P1726,sheila89,BattleZone,PC,Central,2025-02-20,101,0,None,Incomplete,Free,5,No
+S00438,P1604,pweaver,Clash of Realms,Console,North-East,2025-05-20,147,32.05,Subscriptions,Incomplete,Paid,11,No
+S00439,P4812,thomas99,Zombie Rush,Mobile,North,2025-01-10,46,0,None,Completed,Free,4,No
+S00440,P5667,victoria39,Clash of Realms,PC,West,2025-06-02,33,0,None,Exited Early,Free,20,No
+S00441,P4138,ecooley,BattleZone,Mobile,East,2025-02-25,150,0,None,Completed,Free,46,No
+S00442,P9949,brenda52,BattleZone,Console,North-East,2025-05-16,166,0,None,Completed,Free,27,Yes
+S00443,P9493,zmendoza,Clash of Realms,Mobile,North-East,2025-01-21,96,0,None,Completed,Paid,38,No
+S00444,P8787,jamesbarber,SpeedX,Console,South,2025-05-18,51,0,None,Completed,Free,9,No
+S00445,P6434,caitlinmiller,Clash of Realms,Console,West,2024-12-26,96,0,None,Completed,Free,49,No
+S00446,P7453,davidhunt,BattleZone,Console,West,2025-05-10,114,0,None,Incomplete,Free,22,No
+S00447,P1920,fsteele,Empire Wars,Mobile,Central,2024-12-28,133,0,None,Exited Early,Free,10,No
+S00448,P1344,keithunderwood,Zombie Rush,Console,North,2025-04-08,104,9.94,Subscriptions,Exited Early,Paid,21,No
+S00449,P5705,hernandezcatherine,BattleZone,Console,North,2025-04-11,108,0,None,Crashed,Free,22,No
+S00450,P3198,bherrera,Zombie Rush,Mobile,East,2025-03-08,63,0,None,Completed,Free,25,No
+S00451,P5894,chendavid,Empire Wars,Mobile,North,2025-01-03,33,0,None,Completed,Free,32,No
+S00452,P9365,rware,SpeedX,Mobile,North-East,2025-05-14,39,0,None,Completed,Free,42,No
+S00453,P7874,gloriajohnson,Empire Wars,PC,West,2025-02-26,11,0,None,Exited Early,Free,12,No
+S00454,P4547,allenvictor,SpeedX,Mobile,North,2025-02-20,142,0,None,Completed,Free,32,No
+S00455,P4283,sheiladavis,Clash of Realms,PC,Central,2025-01-12,123,22.4,Skins,Completed,Paid,33,No
+S00456,P8176,tgill,BattleZone,Console,South,2025-03-19,132,28.89,Battle Pass,Completed,Paid,26,No
+S00457,P5820,lindagalloway,Empire Wars,Mobile,North-East,2024-12-29,113,0,None,Completed,Free,17,No
+S00458,P8552,jbriggs,Clash of Realms,Console,South,2025-01-09,92,0,None,Completed,Free,33,No
+S00459,P5695,danielleonard,Clash of Realms,Console,Central,2024-12-28,44,0,None,Completed,Free,21,No
+S00460,P6581,ramirezandrea,SpeedX,Mobile,West,2025-03-06,17,0,None,Completed,Free,1,No
+S00461,P4636,jeffreyjohnson,SpeedX,PC,East,2025-02-02,52,0,None,Exited Early,Free,19,No
+S00462,P2853,dannyforbes,Empire Wars,Mobile,West,2025-01-19,51,20.97,Skins,Completed,Paid,31,No
+S00463,P3252,wallacedebra,BattleZone,PC,North,2025-02-06,94,0,None,Completed,Free,43,No
+S00464,P2743,jennifersmith,Empire Wars,Mobile,West,2025-05-05,63,0,None,Completed,Paid,43,No
+S00465,P1878,steven19,Empire Wars,Mobile,North-East,2025-03-09,172,0,None,Completed,Free,15,Yes
+S00466,P1450,jacob95,Zombie Rush,Console,Central,2024-12-25,38,0,None,Exited Early,Free,23,No
+S00467,P3228,mlewis,Clash of Realms,Console,North-East,2024-12-28,132,18,Battle Pass,Crashed,Paid,3,No
+S00468,P9747,charles59,Empire Wars,Mobile,West,2025-05-22,164,0,None,Incomplete,Free,40,Yes
+S00469,P2925,kgonzalez,Clash of Realms,Mobile,East,2025-01-08,166,23.59,Battle Pass,Completed,Paid,19,Yes
+S00470,P9769,marcus01,Empire Wars,Console,East,2025-05-11,73,0,None,Completed,Free,46,No
+S00471,P2833,leonwells,BattleZone,PC,Central,2025-04-02,55,40.58,Subscriptions,Completed,Paid,14,Yes
+S00472,P7312,erika85,Empire Wars,Console,South,2025-05-31,22,0,None,Completed,Free,36,No
+S00473,P3023,jonathonmayer,BattleZone,Mobile,North-East,2025-06-03,56,0,None,Completed,Free,34,No
+S00474,P4635,nicholas43,SpeedX,Mobile,East,2025-03-26,9,0,None,Completed,Free,21,No
+S00475,P8912,paula25,BattleZone,Mobile,West,2025-02-26,54,19.65,Skins,Completed,Paid,38,No
+S00476,P9766,smithcarrie,Zombie Rush,Mobile,South,2025-02-05,85,0,None,Incomplete,Paid,12,No
+S00477,P2059,valenzuelakim,BattleZone,PC,North,2025-01-16,111,0,None,Completed,Free,38,No
+S00478,P3378,adamsbarbara,SpeedX,Console,South,2025-05-18,93,0,None,Completed,Free,26,No
+S00479,P5699,cathy10,SpeedX,Console,Central,2025-05-23,103,0,None,Completed,Free,11,No
+S00480,P7340,rogersmary,BattleZone,Console,West,2025-04-26,44,0,None,Incomplete,Free,29,No
+S00481,P5458,georgejones,Empire Wars,PC,North-East,2025-02-01,134,0,None,Completed,Free,41,No
+S00482,P6129,donna27,Zombie Rush,Mobile,North-East,2025-05-27,167,0,None,Completed,Free,28,Yes
+S00483,P6524,jhayes,Zombie Rush,Mobile,North-East,2025-03-01,149,5.05,Boosters,Completed,Paid,44,No
+S00484,P3747,neallisa,BattleZone,PC,West,2025-04-16,139,0,None,Completed,Free,19,No
+S00485,P3923,evanskristen,Clash of Realms,Mobile,East,2025-03-09,64,0,None,Crashed,Free,33,No
+S00486,P1788,bhenson,SpeedX,PC,East,2025-04-01,86,0,None,Completed,Free,17,No
+S00487,P2044,hgardner,SpeedX,Mobile,East,2025-04-17,13,0,None,Completed,Free,47,No
+S00488,P1977,mckinneychristopher,SpeedX,Mobile,East,2025-06-13,11,20.66,Battle Pass,Completed,Paid,40,No
+S00489,P1280,elizabeth71,BattleZone,Mobile,South,2025-01-05,55,0,None,Exited Early,Free,26,No
+S00490,P9973,ilambert,Clash of Realms,Console,West,2025-05-16,146,0,None,Crashed,Free,2,No
+S00491,P8692,millerdonald,Clash of Realms,PC,South,2025-05-20,179,0,None,Completed,Free,10,Yes
+S00492,P6606,krogers,SpeedX,PC,North,2025-03-22,63,0,None,Completed,Free,4,No
+S00493,P2133,scott72,Zombie Rush,PC,East,2025-04-30,21,0,None,Completed,Free,22,No
+S00494,P3534,simsalexis,Clash of Realms,PC,East,2025-04-16,56,46.31,Skins,Completed,Paid,11,Yes
+S00495,P7831,kingsandra,Empire Wars,Console,West,2025-01-15,171,0,None,Completed,Free,35,Yes
+S00496,P2872,april12,BattleZone,Mobile,North,2025-03-27,24,0,None,Completed,Paid,33,No
+S00497,P1457,turnersusan,Empire Wars,Mobile,West,2025-02-14,157,26.84,Boosters,Completed,Paid,25,Yes
+S00498,P6771,kenneth92,BattleZone,PC,West,2025-01-18,44,0,None,Completed,Free,42,No
+S00499,P1107,victoria57,Clash of Realms,Mobile,South,2025-01-03,172,0,None,Exited Early,Free,4,Yes
+S00500,P4402,fnolan,BattleZone,Console,North,2024-12-30,20,0,None,Completed,Paid,30,No
