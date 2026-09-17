@@ -21,7 +21,7 @@ Gaming platforms continuously handle high volumes of player sessions, microtrans
 
 ## 📁 Dataset & Architecture
 
-The raw dataset (`data/gaming_platform_raw_data.csv`) consists of platform session logs containing the following key fields:
+The raw dataset (`Gaming_Case_Study_Excel_Dataset.xlsx - Sheet1.csv`) consists of platform session logs containing the following key fields:
 * **Session_ID**: Unique identifier for each player session.
 * **Player_ID**: Unique player identifier.
 * **Platform**: Device platform used (`Console`, `Mobile`, `PC`).
